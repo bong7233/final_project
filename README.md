@@ -1,4 +1,4 @@
-# final_project
+# final_project [개인과제 구현 실패]
 
 이수민님의 코드 중( https://github.com/ggongdori/spring_pbl ) 
 Success 클래스, PageController, html ,css ,js 코드를 참고하여 작성했습니다.
